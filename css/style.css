@@ -1,0 +1,37 @@
+body {
+  background-color: silver;
+}
+table {
+  width: 600px;
+  height: 520px;
+  margin: 15px auto;
+  border-collapse: collapse;
+  border: 11px solid silver;
+}
+
+td, tr {
+  padding: 1px;
+  border: 10px solid black;
+  width: 55px;
+  height: 60px;
+}
+
+.white {
+  background-color: #fff;
+}
+
+.yellow {
+  background-color: #ffee5b;
+}
+
+.red {
+  background-color: #ff5739;
+}
+
+.black {
+  background-color: #1d1d1d;
+}
+
+.blue {
+  background-color: #0c4b8b;
+}
